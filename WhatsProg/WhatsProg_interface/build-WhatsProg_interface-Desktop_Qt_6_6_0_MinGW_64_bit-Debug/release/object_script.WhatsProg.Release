@@ -1,0 +1,12 @@
+release/mysocket.o
+release/whatsprog_dados.o
+release/whatsprog_dados_cliente.o
+release/whatsprog_login.o
+release/whatsprog_main.o
+release/whatsprog_novaconversa.o
+release/main_cliente.o
+release/whatsprog_thread.o
+release/moc_whatsprog_login.o
+release/moc_whatsprog_main.o
+release/moc_whatsprog_novaconversa.o
+release/moc_whatsprog_thread.o

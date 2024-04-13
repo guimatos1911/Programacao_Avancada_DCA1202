@@ -1,0 +1,12 @@
+debug/mysocket.o
+debug/whatsprog_dados.o
+debug/whatsprog_dados_cliente.o
+debug/whatsprog_login.o
+debug/whatsprog_main.o
+debug/whatsprog_novaconversa.o
+debug/main_cliente.o
+debug/whatsprog_thread.o
+debug/moc_whatsprog_login.o
+debug/moc_whatsprog_main.o
+debug/moc_whatsprog_novaconversa.o
+debug/moc_whatsprog_thread.o
